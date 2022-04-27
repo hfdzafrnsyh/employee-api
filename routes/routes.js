@@ -1,4 +1,4 @@
-'use-strict'
+'use strict'
 
 const UserRoutes = require('./api/UserRoutes');
 const EmployeeRoutes = require('./api/EmployeeRoutes');
